@@ -6,4 +6,5 @@ void display()
 {  
 System.out.println("Welcome to javatpoint");  
 }  
-//statements  
+new statements are edited in the file
+////statements  
